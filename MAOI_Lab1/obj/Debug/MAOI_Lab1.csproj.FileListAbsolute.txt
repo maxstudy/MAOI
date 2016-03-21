@@ -1,0 +1,9 @@
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\bin\Debug\MAOI_Lab1.exe.config
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\bin\Debug\MAOI_Lab1.exe
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\bin\Debug\MAOI_Lab1.pdb
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\obj\Debug\MAOI_Lab1.csprojResolveAssemblyReference.cache
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\obj\Debug\MAOI_Lab1.Form1.resources
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\obj\Debug\MAOI_Lab1.Properties.Resources.resources
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\obj\Debug\MAOI_Lab1.csproj.GenerateResource.Cache
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\obj\Debug\MAOI_Lab1.exe
+D:\Универ\6 семестр\Методы и алгоритмы обработки изображений\Проекты\MAOI_Lab1\MAOI_Lab1\obj\Debug\MAOI_Lab1.pdb
